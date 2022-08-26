@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.navbar-collapse.anaMenu{
+  flex-grow:initial;
+}
+.logoFotograf{
+  width:200px;
+  height: 120px;
+  margin-left: inherit;
+}
+.ustMenuAlani{
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.servislerBaslik{
+  color:black;
+  margin-bottom:15px;
+}
+.anasayfaServisAlani{
+  margin-top:25px;
+  margin-bottom:35px;
+}
+.sirketKucukYazi{
+  margin-bottom:20px;
+  font-size:14px;
+}
+.sagMenu{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+.sagMenu li{
+  list-style-type:none;
+  margin-bottom:10px;
+}
+.sagMenu li a{
+  text-decoration:none;
+  color:black;
+  font-weight:700;
+  font-size:18px;
+}
+.sagMenu li a:hover{
+  color:red;
+}
+.anasayfaServisYazilari{
+  border-right:1px solid gray;
+  padding-right:15px;
+}
+.tumHaklariSaklidirAlani{
+  margin-top:40px;
+  border-top:2px solid black;
+}
+.tumHaklariSaklidir{
+  padding:10px 0 10px 0;
+  text-align:center;
+  font-size:18px;
+}
+.hakkimizdaYaziAlani{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.icSayfaFotograf{
+  float:left;
+  margin:0 15px 15px 0;
+}
+.icSayfaFotograf img{
+  width:400px;
+}
+.genelBaslik{
+  /*font-size:22px;*/
+  color:black;
+  margin-bottom:20px;
+}
+/*.servislerSayfasi .card{
+  margin-bottom:20px;
+}*/
+.servisSatirlari{
+  margin-bottom:25px;
+}
+.ozelLinkliAlan{
+  text-decoration:none;
+  color:black;
+}
+.ozelLinkliAlan:hover{
+  color:red;
+}
+.iletisimBilgileri{
+  margin-top:20px;
+}
